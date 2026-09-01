@@ -1,0 +1,16 @@
+# 忽略调试符号和配置文件
+*.pdb
+*.deps.json
+*.runtimeconfig.json
+
+# 忽略工作目录
+.workbuddy/
+
+# 忽略临时文件
+*.tmp
+*.log
+
+# 忽略系统文件
+Thumbs.db
+ehthumbs.db
+Desktop.ini
