@@ -3,6 +3,9 @@
 *.deps.json
 *.runtimeconfig.json
 
+# 忽略批处理文件
+*.bat
+
 # 忽略工作目录
 .workbuddy/
 
